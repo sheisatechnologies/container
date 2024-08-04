@@ -86,107 +86,8 @@ Customer support
 </div>
 </div>
 </div>
-<header class="header-area style-1 two d-flex flex-nowrap align-items-center justify-content-between">
-<div class="nav-left">
-<div class="company-logo">
-<a href="index.html"><img alt="image" class="img-fluid" src="assets/img/cl_logo.png"></a>
-</div>
-<div class="main-menu">
-<div class="mobile-logo-area d-lg-none d-flex justify-content-center">
-<div class="mobile-logo-wrap">
-<a href="index.html"><img alt="image" src="assets/img/cl_logo.png"></a>
-</div>
-</div>
-<ul class="menu-list">
-<li class="menu-item-has-children active">
-<a href="index.html" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
 
-
-
-</li>
-<li><a href="about.html">About</a>
-</li>
-
-
-
-<li class="menu-item-has-children">
-    <a href="#" class="drop-down">Live Listing</a><i class="bi bi-plus dropdown-icon"></i>
-    <ul class="sub-menu">
-    <li><a href="request-stock.html">Request Stock</a></li>
-   
-    </ul>
-</li>
-
-<li class="menu-item-has-children">
-    <a href="#" class="drop-down">Become a Member</a><i class="bi bi-plus dropdown-icon"></i>
-    <ul class="sub-menu">
-    <li><a href="buyer-info.html">Essential Buyer info</a></li>
-    <li><a href="auction-buyer.html">Traders/Sellers</a></li>
-   
-    </ul>
-</li>
-
-
-
-<li class="menu-item-has-children">
-    <a href="#" class="drop-down">Auctions</a><i class="bi bi-plus dropdown-icon"></i>
-    <ul class="sub-menu">
-    <li><a href="auction-guide.html">Our Auctions Guide</a></li>
-    <li><a href="auction-buyer.html">Auctions buyer</li></a></li>
-    <li><a href="how-to-sell.html">Sell at online Auction</a></li>
-    <li><a href="how-to-buy.html">Auction Buyer User Page</a></li>
-    </ul>
-    </li>
-
-
-<li class="menu-item-has-children">
-<a href="dashboard.html" class="drop-down">Membership Account</a><i class="bi bi-plus dropdown-icon"></i>
-<ul class="sub-menu">
-<li><a href="register.html">Register</a></li>
-<li><a href="login.html">Log in </a></li>
-
-</ul>
-</li>
-
-
-
-</div>
-</div>
-<div class="nav-right d-flex jsutify-content-end align-items-center">
-
-<div class="search-bar d-xl-none d-lg-block d-none">
-<div class="search-btn">
-<i class="bi bi-search"></i>
-</div>
-<div class="search-input">
-<div class="search-close"></div>
-<form>
-<div class="search-group">
-<div class="form-inner2">
-<input type="text" placeholder="Search your product...">
-<button type="submit">
-<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M7.67458 2.95934C5.06925 2.95934 2.95925 5.06868 2.95925 7.66868C2.95925 10.2687 5.06925 12.3773 7.67458 12.3773C8.97459 12.3773 10.1499 11.8533 11.0033 11.004C11.4434 10.5674 11.7926 10.0477 12.0307 9.47524C12.2687 8.90273 12.3908 8.28869 12.3899 7.66868C12.3899 5.06868 10.2799 2.95934 7.67458 2.95934ZM1.33325 7.66868C1.33325 4.16868 4.17325 1.33334 7.67458 1.33334C11.1759 1.33334 14.0159 4.16868 14.0159 7.66868C14.0178 9.07185 13.5516 10.4356 12.6913 11.544L14.4279 13.2787C14.5084 13.353 14.573 13.4427 14.618 13.5426C14.6629 13.6424 14.6872 13.7503 14.6894 13.8598C14.6916 13.9693 14.6717 14.0781 14.6309 14.1797C14.59 14.2813 14.5291 14.3736 14.4517 14.4511C14.3743 14.5286 14.2821 14.5896 14.1805 14.6306C14.079 14.6716 13.9702 14.6916 13.8607 14.6895C13.7512 14.6874 13.6433 14.6632 13.5434 14.6184C13.4435 14.5736 13.3536 14.5091 13.2793 14.4287L11.5393 12.6913C10.4316 13.544 9.07244 14.0054 7.67458 14.0033C4.17325 14.0033 1.33325 11.168 1.33325 7.66868Z" />
-</svg>
-</button>
-</div>
-</div>
-</form>
-</div>
-</div>
-<a href="dashboard.html" class="login-btn btn-hover d-lg-flex d-none">
-<svg width="17" height="17" viewBox="0 0 17 17" xmlns="http://www.w3.org/2000/svg">
-<path d="M8.50035 9.09302C5.99384 9.09302 3.95384 7.05302 3.95384 4.54651C3.95384 2.04 5.99384 0 8.50035 0C11.0069 0 13.0469 2.04 13.0469 4.54651C13.0469 7.05302 11.0069 9.09302 8.50035 9.09302ZM8.50035 1.18605C6.65012 1.18605 5.13989 2.69628 5.13989 4.54651C5.13989 6.39674 6.65012 7.90698 8.50035 7.90698C10.3506 7.90698 11.8608 6.39674 11.8608 4.54651C11.8608 2.69628 10.3506 1.18605 8.50035 1.18605ZM15.2924 17C14.9683 17 14.6994 16.7312 14.6994 16.407C14.6994 13.6791 11.9162 11.4651 8.50035 11.4651C5.08454 11.4651 2.30128 13.6791 2.30128 16.407C2.30128 16.7312 2.03244 17 1.70826 17C1.38407 17 1.11523 16.7312 1.11523 16.407C1.11523 13.0307 4.42826 10.2791 8.50035 10.2791C12.5724 10.2791 15.8855 13.0307 15.8855 16.407C15.8855 16.7312 15.6166 17 15.2924 17Z" />
-</svg>
-My Account
-<span></span>
-</a>
-<div class="sidebar-button mobile-menu-btn">
-<span></span>
-</div>
-</div>
-</header>
-
+<?php include 'header.php';?>
 </div>
 
 <div class="home3-banner-section mb-100">
@@ -4770,127 +4671,91 @@ Yes, buying at auctions carries risks such as overbidding, hidden defects, and l
 </div>
 
 
-
-
-
-<footer class="style-3">
-
-    
-
-<div class="footer-wrapper">
+<div class="home3-blog-section mb-110">
 <div class="container">
-<div class="footer-menu-wrap">
+<div class="row mb-50 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+<div class="col-lg-12 d-flex align-items-center justify-content-between flex-wrap gap-3">
+<div class="section-title2">
+<span><i class="bi bi-arrow-right"></i>READ OUR</span>
+<h2>Insights From The <span>Auctions.</span></h2>
+</div>
+<a class="view-button2" href="blog-grid.html">
+View All Article
+<div class="arrow">
+<svg width="13" height="13" viewBox="0 0 13 13" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.0261 10.3381L1.68853 1L0.999512 1.68902L10.3376 11.0266L3.88123 11.0266L3.88123 12.0005L12 12.0005L12 3.88172L11.0261 3.88172L11.0261 10.3381Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.15 3.73194L12.15 12.1507L3.73126 12.1507L3.73126 10.8768L9.97546 10.8768L0.787402 1.68924L1.68856 0.788085L10.8761 9.97615L10.8761 3.73194L12.15 3.73194ZM11.85 4.03194L11.1761 4.03194L11.1761 10.7004L1.68856 1.21236L1.21167 1.68924L10.6998 11.1768L4.03125 11.1768L4.03125 11.8507L11.85 11.8507L11.85 4.03194Z" />
+</svg>
+</div>
+</a>
+</div>
+</div>
 <div class="row g-lg-4 gy-5">
-<div class="col-lg-2 col-sm-6">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Category</h4>
-</div>
-<div class="menu-container">
-<ul class="widget-list">
-<li><a href="auction-grid.html">Porcelain</a></li>
-<li><a href="auction-grid.html">Old Clocks</a></li>
-<li><a href="auction-grid.html">Jewelry</a></li>
-<li><a href="auction-grid.html">Manuscripts</a></li>
-<li><a href="auction-grid.html">Ceramics</a></li>
-<li><a href="auction-grid.html">Sculptures</a></li>
-<li><a href="auction-grid.html">Weapons</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-2 col-sm-6">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Company</h4>
-</div>
-<div class="menu-container">
-<ul class="widget-list">
-<li><a href="how-to-buy.html">How to bid with us</a></li>
-<li><a href="how-to-sell.html">How to sell with us</a></li>
-<li><a href="about.html">About us</a></li>
-<li><a href="faq.html">F.A.Q</a></li>
-<li><a href="#">Our Brand</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-sm-6 d-flex align-items-center justify-content-lg-center justify-content-start">
-<div class="footer-logo-area">
-<div class="footer-logo">
-<img src="assets/img/cl_logo_white.png" alt>
-</div>
-<div class="social-area">
-<h5>Social Just You Connected Us!</h5>
-<p>All of update in social</p>
-<ul class="social-list">
-<li>
-<a href="https://www.linkedin.com/">
-<i class="bi bi-linkedin"></i>
-<span>LinkedIn</span>
+<div class="col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+<div class="blog-card three">
+<div class="blog-card-img-wrap">
+<a href="blog-details.html" class="card-img">
+<img src="assets/img/home3/blog-img1.jpg" alt>
 </a>
-</li>
-<li>
-<a href="https://www.facebook.com/">
-<i class="bi bi-facebook"></i>
-<span>Facebook</span>
-</a>
-</li>
-<li>
-<a href="https://twitter.com/">
-<i class="bi bi-twitter-x"></i>
-<span>Twitter</span>
-</a>
-</li>
-<li>
-<a href="https://www.instagram.com/">
-<i class="bi bi-instagram"></i>
-<span>Instagram</span>
-</a>
-</li>
+</div>
+<div class="card-content">
+<div class="blog-meta">
+<ul class="category">
+<li><a href="blog-grid.html">DIGITAL ART</a></li>
+<li></li>
 </ul>
+<div class="blog-date">
+<a href="blog-grid.html">23 January, 2024</a>
+</div>
+</div>
+<h4><a href="blog-details.html">Vintage Vibes Stories Behind Antique Auction Finds.</a></h4>
+<a class="view-button2" href="blog-details.html">
+Read More
+<div class="arrow">
+<svg width="13" height="13" viewBox="0 0 13 13" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.0261 10.3381L1.68853 1L0.999512 1.68902L10.3376 11.0266L3.88123 11.0266L3.88123 12.0005L12 12.0005L12 3.88172L11.0261 3.88172L11.0261 10.3381Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.15 3.73194L12.15 12.1507L3.73126 12.1507L3.73126 10.8768L9.97546 10.8768L0.787402 1.68924L1.68856 0.788085L10.8761 9.97615L10.8761 3.73194L12.15 3.73194ZM11.85 4.03194L11.1761 4.03194L11.1761 10.7004L1.68856 1.21236L1.21167 1.68924L10.6998 11.1768L4.03125 11.1768L4.03125 11.8507L11.85 11.8507L11.85 4.03194Z" />
+</svg>
+</div>
+</a>
 </div>
 </div>
 </div>
-<div class="col-lg-4 col-sm-6 d-flex justify-content-sm-end justify-content-start">
-<div class="newletter-and-payment-wrap">
-<div class="newletter-area">
-<h4>Join Our Newsletter & More information.</h4>
-<form>
-<div class="form-inner">
-<input type="email" placeholder="Email Address">
-<button type="submit"><i class="bi bi-arrow-right"></i></button>
+<div class="col-md-6 d-flex justify-content-md-end wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
+<div class="blog-card three mt-50">
+<div class="blog-card-img-wrap">
+<a href="blog-details.html" class="card-img">
+<img src="assets/img/home3/blog-img2.jpg" alt>
+</a>
 </div>
-</form>
-</div>
-<div class="payment-area">
-<h6>Secured Payment Gateways</h6>
-<ul class="payment-options">
-<li><img src="https://demo.egenslab.com/html/probid/preview/assets/img/home1/icon/visa.svg" alt></li>
-<li><img src="https://demo.egenslab.com/html/probid/preview/assets/img/home1/icon/master-card.svg" alt></li>
-<li><img src="https://demo.egenslab.com/html/probid/preview/assets/img/home1/icon/american-express.svg" alt></li>
-<li><img src="https://demo.egenslab.com/html/probid/preview/assets/img/home1/icon/maestro.svg" alt></li>
+<div class="card-content">
+<div class="blog-meta">
+<ul class="category">
+<li><a href="blog-grid.html">Antiques</a></li>
+<li></li>
 </ul>
+<div class="blog-date">
+<a href="blog-grid.html">14 March, 2024</a>
+</div>
+</div>
+<h4><a href="blog-details.html">Heritage Hamer Where History Meets the Auction Gavel.</a></h4>
+<a class="view-button2" href="blog-details.html">
+Read More
+<div class="arrow">
+<svg width="13" height="13" viewBox="0 0 13 13" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.0261 10.3381L1.68853 1L0.999512 1.68902L10.3376 11.0266L3.88123 11.0266L3.88123 12.0005L12 12.0005L12 3.88172L11.0261 3.88172L11.0261 10.3381Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.15 3.73194L12.15 12.1507L3.73126 12.1507L3.73126 10.8768L9.97546 10.8768L0.787402 1.68924L1.68856 0.788085L10.8761 9.97615L10.8761 3.73194L12.15 3.73194ZM11.85 4.03194L11.1761 4.03194L11.1761 10.7004L1.68856 1.21236L1.21167 1.68924L10.6998 11.1768L4.03125 11.1768L4.03125 11.8507L11.85 11.8507L11.85 4.03194Z" />
+</svg>
+</div>
+</a>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="footer-bottom">
-<div class="copyright-area">
-<p>©Copyright 2024 <a href="index.html">Container Liquidation</a> | Design By <a href="#">Blend Crowd Digital</a></p>
 </div>
-<div class="footer-bottom-right">
-<ul>
-<li><a href="support-center.html">Support Center</a></li>
-<li><a href="terms-condition.html">Terms & Conditions</a></li>
-<li><a href="privacy-policy.html">Privacy Policy</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</footer>
+
+<?php include 'footer.php';?>
 
 
 <script data-cfasync="false" src="../../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-3.7.1.min.js"></script>
